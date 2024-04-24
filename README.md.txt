@@ -24,8 +24,8 @@ Technologies:
 
 Process:
 
-* Gather data from source websites.
-* Clean data using Excel and Python.
+* Gathered data from source websites.
+* Cleaned data using Excel and Python.
 * Convert cleaned data from Python and upload it to my data folder as a CSV.
 * Loaded the CSVs to PowerBI to create my presentation.
 
